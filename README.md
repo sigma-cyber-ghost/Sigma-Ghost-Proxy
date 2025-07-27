@@ -22,7 +22,7 @@ A professional, terminal-based proxy toolkit forged for speed, stealth, and sign
 ## 📦 Install Requirements
 
 ```bash
-git clone https://github.com/sigma-cyber-ghost/Sigma-Ghost-Proxy/Sigma-Ghost-Proxy.git
+git clone https://github.com/sigma-cyber-ghost/Sigma-Ghost-Proxy.git
 cd Sigma-Ghost-Proxy
 pip install requests rich PySocks 
 python3 ghost-proxy.py
