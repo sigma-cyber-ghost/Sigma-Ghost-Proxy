@@ -1,4 +1,4 @@
-# ⚔️ SIGMA GHOST PROXY TOOL — BLACK HAT EDITION 💀
+# 💀SIGMA GHOST PROXY TOOL — BLACK HAT EDITION
 
 A professional, terminal-based proxy toolkit forged for speed, stealth, and signal. Built for Black Hat Hackers, Researchers, and Digital Phantoms who demand performance and precision. 
 
