@@ -1,4 +1,4 @@
-# SIGMA GHOST PROXY TOOL — BLACK HAT EDITION 🩸
+# ⚔️ SIGMA GHOST PROXY TOOL — BLACK HAT EDITION 💀
 
 A professional, terminal-based proxy toolkit forged for speed, stealth, and signal. Built for Black Hat Hackers, Researchers, and Digital Phantoms who demand performance and precision. 
 
@@ -46,7 +46,7 @@ You will not be protected. There is no safety net.
 > - You are solely accountable for every packet routed.
 > - No logs are kept — because fire doesn’t log what it burns.
 
-🩸 SIGMA GHOST assumes no liability.  
+💀 SIGMA GHOST assumes no liability.⚔️ 
 **This is a tool of chaos — not compliance.**
 
 ## 🌐 Connect With Us
