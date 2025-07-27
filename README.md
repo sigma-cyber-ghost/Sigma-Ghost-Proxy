@@ -5,19 +5,16 @@ A professional, terminal-based proxy toolkit forged for speed, stealth, and sign
 > 💀 Designed By *Sigma_Cyber_Ghost*
 
 ## 🚀 Features
-```bash
+
 ## ⚔️ **Proxy Generator**
   - Scrapes fresh proxies from public sources (HTTP/HTTPS/SOCKS4/SOCKS5)
   - Saves to `proxy_results/generated_proxies.txt`
-```
 
-```bash
 ## 🔎 **Live Proxy Checker**
   - Multi-threaded, fast, detailed validation
   - Supports: `HTTP`, `HTTPS`, `SOCKS4`, `SOCKS5`
   - Shows: Protocol, IP, Port, Country, Response Time, Quality Rating
   - Only **LIVE** proxies saved to `checked_proxies/{type}_proxies.txt`
-```
 
 ## 📦 Install Requirements
 
